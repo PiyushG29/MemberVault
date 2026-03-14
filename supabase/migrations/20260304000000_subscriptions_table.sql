@@ -1,0 +1,3 @@
+-- This migration is superseded by 20260304000001_merge_subscriptions_into_profiles.sql
+-- Subscription data is stored directly on the profiles table instead.
+-- Intentionally left as no-op.
