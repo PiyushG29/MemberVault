@@ -1,4 +1,4 @@
-# MemberHub Suite
+# MemberVault
 
 A professional membership management platform built with modern web technologies.
 
